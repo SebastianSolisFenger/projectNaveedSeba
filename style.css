@@ -161,3 +161,15 @@ box-shadow: 5px 15px 25px 5px white;
 }
 
 /* ////////////// */
+
+
+footer{
+    background-color: black;
+    padding: 20px
+}
+
+footer p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
