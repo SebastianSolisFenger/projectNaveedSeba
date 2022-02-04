@@ -46,6 +46,7 @@
 border-radius: 200px;
 height: 400px;
 margin-top: 200px;
+box-shadow: 5px 15px 25px 5px white;
 }
 .title-intro{
     margin-top: 20px;
